@@ -1,6 +1,8 @@
 # COVID-19-Trend-Italia
 Trend italiani relativi a nuovi contagi, morti e guarigioni
 
+![Situazione aggiornata all'11/03/2020](/plot/2020.03.11.png)
+
 # Cos'è?
 Ad oggi, si tratta di un unico file MS Excel (xlsx), che potete trovare nella radice del progetto, dove sono riportati i dati giornalieri relativi alla diffusione del Coronavirus COVID-19 in Italia.
 
