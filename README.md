@@ -1,6 +1,7 @@
 # COVID-19-Trend-Italia
 Trend italiani relativi a nuovi contagi, morti e guarigioni
 
+# Situazione all'11/03/2020
 ![Situazione aggiornata all'11/03/2020](/plot/2020.03.11.png)
 
 # Cos'è?
