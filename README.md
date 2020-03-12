@@ -10,6 +10,7 @@ Ad oggi, si tratta di un unico file MS Excel (xlsx), che potete trovare nella ra
 I dati sono divisi in 2 misure:<br/>
 - casi cumulati totali;<br/>
 - nuovi casi (rispetto al giorno precedente).<br/>
+
 Entrambe le misure sono relative alle dimensioni sotto osservazione, cioè Contagi, Guarigioni, Morti.
 All'interno del file è presente un grafico che propone una lettura, di quella che è l'evoluzione del fenomeno nel nostro paese, più immediata rispetto alla lettura di semplici dati numerici dai quali, spesso, è difficile capire l'andamento del fenomeno nel corso delle settimane.
 
