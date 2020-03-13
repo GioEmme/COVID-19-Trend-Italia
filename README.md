@@ -7,6 +7,9 @@ Trend italiani relativi a nuovi contagi, morti e guarigioni
 # Cos'è?
 Ad oggi, si tratta di un unico file MS Excel (xlsx), che potete trovare nella radice del progetto, dove sono riportati i dati giornalieri relativi alla diffusione del Coronavirus COVID-19 in Italia.
 
+## Update del 12/03/2020
+Dal momento che i dati del CSSE JHU, per il giorno 12 Marzo 2020, non sembrano aggiornati, per tale data è stata utilizzata la base dati della Protezione Civile Italiana, disponibile sul seguente repository github https://github.com/pcm-dpc/COVID-19.
+
 I dati sono divisi in 2 misure:<br/>
 - casi cumulati totali;<br/>
 - nuovi casi (rispetto al giorno precedente).<br/>
