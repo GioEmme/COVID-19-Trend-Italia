@@ -1,8 +1,8 @@
 # COVID-19-Trend-Italia
 Trend italiani relativi a nuovi contagi, morti e guarigioni
 
-# Situazione al 16/03/2020
-![Situazione aggiornata al 16/03/2020](/plot/2020.03.16.png)
+# Situazione al 17/03/2020
+![Situazione aggiornata al 17/03/2020](/plot/2020.03.17.png)
 
 ## Update del 12/03/2020
 A partire dal giorno 12 Marzo 2020 viene utilizzata la base dati della Protezione Civile Italiana per i dati relativi all'Italia, disponibile sul seguente repository github https://github.com/pcm-dpc/COVID-19. I casi relativi alla Cina continuano ad essere letti dalla base dati del CSSE JHU.
